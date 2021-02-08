@@ -1,32 +1,16 @@
 # SQL-Project
 
-Objective of the project:
+Objectives of the project:
 - Demonstrate effective use of formulating SQL queries
 - Demonstrate use of invoking SQL queries from Jupyter notebooks using Python
 - Demonstrate skill in retrieving SQL query results and analyzing data
 
 
-
-
-Scenario
+**Scenario**
 
 Imagine you have been hired as a Data Science Consultant by a non-profit organization to help analyze socioeconomic conditions, and identify insights to improve quality of education and reduce crime in the city of Chicago. Your first task is to review several Chicago datasets and perform some exploratory analysis.
 
-Tasks
-
-For the exploratory analysis you will perform the following tasks:
-
-Download the datasets and become familiar with what they contain.
-
-LOAD the datasets into a database
-
-Utilize Python based Jupyter notebooks to compose and run SQL queries that retrieve specific results.
-
-Once you have performed these tasks you will be tested in demonstrating working knowledge of SQL and correctness of queries and their result sets.
-
-About the Datasets
-
-To complete the assignment problems in this notebook you will be using three datasets that are available on the city of Chicago's Data Portal:
+In this notebook you will be using three datasets that are available on the city of Chicago's Data Portal:
 
 Socioeconomic Indicators in Chicago
 
