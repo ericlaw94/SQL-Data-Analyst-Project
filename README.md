@@ -1,4 +1,12 @@
-# SQL-Project-
+# SQL-Project
+
+Objective of the project:
+- Demonstrate effective use of formulating SQL queries
+- Demonstrate use of invoking SQL queries from Jupyter notebooks using Python
+- Demonstrate skill in retrieving SQL query results and analyzing data
+
+
+
 
 Scenario
 
